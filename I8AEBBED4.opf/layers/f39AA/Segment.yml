@@ -1,0 +1,19 @@
+id: fabae2c0266147adacc4f5e82645e87a
+annotation_type: Segment
+revision: '00001'
+annotations:
+  33eac4bd22d845e6a101c7c1141da481:
+    span:
+      start: 0
+      end: 55
+    metadata: {}
+  2dca4403dbe84587b4251af4f3fbb45f:
+    span:
+      start: 57
+      end: 617
+    metadata: {}
+  df9075e096f24bb1b3f1c60e41cc38c5:
+    span:
+      start: 619
+      end: 694
+    metadata: {}
